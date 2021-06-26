@@ -1,0 +1,23 @@
+{
+    "development":{
+        "username": "root",
+        "password": "power123",
+        "database": "blog-task",
+        "host": "127.0.0.1",
+        "dialect": "mysql"
+    },
+    "test":{
+        "username": "root",
+        "password": "power123",
+        "database": "blog-task",
+        "host": "127.0.0.1",
+        "dialect": "mysql"
+    },
+    "production":{
+        "username": "root",
+        "password": "power123",
+        "database": "blog-task",
+        "host": "127.0.0.1",
+        "dialect": "mysql"
+    }
+}
